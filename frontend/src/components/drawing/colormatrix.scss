@@ -1,0 +1,8 @@
+@import "properties.scss";
+#elements{
+    border: 1px solid $red;
+    border-radius: 0.25rem;
+    #element{
+        padding: 10px;
+    }
+}

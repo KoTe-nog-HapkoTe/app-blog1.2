@@ -1,0 +1,7 @@
+.links{
+    height: 200%;
+    width: 200%;
+}
+
+.link a { display: flex; align-items: center; text-decoration: none; color: inherit; }
+.link a .icon { margin-right: 5px; }

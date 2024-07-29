@@ -1,0 +1,45 @@
+.singlePage {
+  background: #222831;
+  padding: 50px 0;
+}
+.singlePage .right {
+  margin-top: 50px;
+}
+.singlePage img {
+  width: 30%;
+  height: 30%;
+  margin-left: 38rem;
+}
+.singlePage h1 {
+  font-size: 30px;
+  font-weight: 500;
+}
+.singlePage p {
+  margin: 20px 0;
+  font-size: 17px;
+  line-height: 1.5;
+  text-transform: capitalize;
+}
+.singlePage .buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+.singlePage .button {
+  margin-left: 20px;
+  border: none;
+}
+.singlePage .button:nth-child(1) {
+  background: #10ac84;
+}
+.singlePage .button:nth-child(2) {
+  background: #ee5253;
+}
+.updateInput {
+  border: 1px solid #f05454;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 20px;
+  font-size: 18px;
+  font-family: serif;
+}
